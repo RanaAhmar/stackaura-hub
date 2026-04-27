@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/stackaura-hub?style=for-the-badge)](https://github.com/RanaAhmar/stackaura-hub/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/stackaura-hub?style=for-the-badge)](https://github.com/RanaAhmar/stackaura-hub/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/stackaura-hub/blob/main/LICENSE)
+
 # 🚀 Stackaura 100-Repo Portfolio
 
 Welcome to the **Stackaura Hub**, the central directory for Ahmar Hussain's massive 100-repository portfolio. This collection showcases high-performance web applications, scalable SaaS architectures, AI tools, and developer utilities.
@@ -33,6 +35,18 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **GitHub:** [@RanaAhmar](https://github.com/RanaAhmar)
 
 ---
+
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
 
 
 ---
